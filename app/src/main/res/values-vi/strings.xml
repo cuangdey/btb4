@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quản Lý Sinh Viên</string>
+    <string name="title_student_list">Danh Sách Sinh Viên</string>
+    <string name="title_student_detail">Chi Tiết Sinh Viên</string>
+    <string name="title_add_student">Thêm Sinh Viên</string>
+    <string name="title_edit_student">Sửa Thông Tin Sinh Viên</string>
+    <string name="label_student_name">Họ tên SV</string>
+    <string name="label_student_code">Mã số SV</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Ảnh avatar (Link / Đường dẫn)</string>
+    <string name="btn_add">Thêm Mới</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="dialog_confirm_title">Xác nhận</string>
+    <string name="dialog_confirm_update">Bạn có muốn sửa thông tin SV không?</string>
+    <string name="dialog_confirm_delete">Bạn có muốn xóa thông tin SV không?</string>
+    <string name="dialog_confirm_add">Bạn có muốn thêm thông tin SV không?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="msg_empty_fields">Vui lòng điền đầy đủ thông tin.</string>
+    <string name="msg_no_students">Chưa có sinh viên nào. Nhấn dấu + để thêm.</string>
+</resources>

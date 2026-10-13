@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+    <string name="title_student_list">Student List</string>
+    <string name="title_student_detail">Student Detail</string>
+    <string name="title_add_student">Add Student</string>
+    <string name="title_edit_student">Edit Student</string>
+    <string name="label_student_name">Full Name</string>
+    <string name="label_student_code">Student ID</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Avatar URL / Path</string>
+    <string name="btn_add">Add New</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_confirm_title">Confirmation</string>
+    <string name="dialog_confirm_update">Do you want to update student info?</string>
+    <string name="dialog_confirm_delete">Do you want to delete student info?</string>
+    <string name="dialog_confirm_add">Do you want to add student info?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="msg_empty_fields">Please fill in all required fields.</string>
+    <string name="msg_no_students">No students found. Tap + to add one.</string>
+</resources>
